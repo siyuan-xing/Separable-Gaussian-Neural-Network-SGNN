@@ -1,8 +1,5 @@
 # Separable Gaussian Neural Network (SGNN)
-
-## Overview
-This project 
-
+ 
 # Paper
 - [Separable Gaussian Neural Networks: Structure, Analysis, and Function Approximations](https://www.mdpi.com/1999-4893/16/10/453)  
 
