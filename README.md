@@ -22,8 +22,9 @@ Ensure you have the following installed:
 This project is licensed under the MIT License. You are free to use, modify, and distribute this software in accordance with the terms of the license.
 
 ## Citation
+  
   @Article{XingandSunSGNN2023,
-   Title                    = {Separable Gaussian Neural Networks: Structure, Analysis, and Function Approximations},
+    Title                    = {Separable Gaussian Neural Networks: Structure, Analysis, and Function Approximations},
     Author                   = {Siyuan Xing and Jianqiao Sun},
     Year                     = {2023},
     Issue						={10},
